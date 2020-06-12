@@ -1,12 +1,19 @@
 # STATS170-Project
 
-* user.csv
-* ML Model.ipynb	
-* ModelWithEvaluation.ipynb	
-* Visualization.twb	
+* user.csv: sample dataset for running the model, Dimensionality: 39805 rows × 12 columns	
+* ML Model.ipynb：KNN model and random forest model (OUR MAIN NOTEOOK)	
+* ModelWithEvaluation.ipynb: models with evaluation part	
+* Visualization.twb: data visualization part with Tableau 	
 
 9 features for our models: 
 user’s attitude to the news, user’s age, user’s gender, reliability level for the News source, number of coronavirus confirmed case, number of how many years the account has been created, number of users this account is following, number of followers of this account, state name.
+
+Output for our models: 
+Real/Fake
+
+Steps to run:
+1) change the path of user data
+2) run the model
 
 
 	
@@ -18,5 +25,5 @@ Files in More Datails Folder:
 * Add_ReliabilityLevel.ipynb: Get news sources from News API’s news source collection. (News sources are ABC, BBC, and etc.) And give a classification of source reliability for each tweet based on it.
 * Add_accountAge.ipynb: Count account age and add it as a feature in the datasets.
 * Add_covidFeature.ipynb: Add confirmed number of coronavirus as a feature in the datasets.
-* Flow.tfl: Combine Confirmed, Death, Recovered datasets to one and reform its as the coronavirus datasets structure for better use.
+* Flow.tfl: Combine Confirmed, Death, Recovered datasets to one and reform its as the coronavirus datasets structure for better use by Taleau Prep.
 * Coronavirus dataset
