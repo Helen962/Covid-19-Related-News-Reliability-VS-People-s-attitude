@@ -29,7 +29,7 @@ Real/Fake
 
 
 	
-Files in "More Datails" Folder:
+# Files in "More Datails" Folder:
 * get_data.ipynb：Get “Tweet Status” object from Twitter for developers to use. (e.g: Tweets id, user’s profile, tweets text, retweeted_status, and etc.
 * ProcessingData.ipynb，Add_newslinks.ipynb，Add_newstext.ipynb：Open urls as html object. Input is url, and output is all the information on the webpage, such as title, text, ect.
 * Add_RealFake.ipynb：label news as Fake and Real
