@@ -1,6 +1,6 @@
 # STATS170-Project
 
----- Jupyter Notebook files to run the machine learning model
+Jupyter Notebook files to run the machine learning model
 * user.csv: sample dataset for running the model, Dimensionality: 39805 rows × 12 columns	
 * ML Model.ipynb：KNN model and random forest model (OUR MAIN NOTEOOK)	
 * ModelWithEvaluation.ipynb: models with evaluation part	
@@ -12,7 +12,7 @@ user’s attitude to the news, user’s age, user’s gender, reliability level 
 Output for our models: 
 Real/Fake
 
-Steps to run Machine Learning Model (without evelation and discussion of the machine model):
+# Steps to run Machine Learning Model (without evelation and discussion of the machine model):
 1) Download the data file "user.csv"
 2) Open the "ML Model.ipynb" file 
 3) Change the path of "user.csv" data
@@ -20,7 +20,7 @@ Steps to run Machine Learning Model (without evelation and discussion of the mac
 
 
 
-Steps to run Machine Learning Model with evelation and discussion of the machine model:
+# Steps to run Machine Learning Model with evelation and discussion of the machine model:
 1) Download the data file "user.csv"
 2) Open the "ModelWithEvaluation.ipynb" file 
 3) Change the path of "user.csv" data
