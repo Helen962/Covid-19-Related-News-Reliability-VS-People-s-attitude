@@ -2,6 +2,7 @@
 
 # Introduction
 This project is done by Mengchen Xu and Yang Tang as the final project for the Projects in Data Science course.
+The final report PDF file is called "Covid-19 Related News Reliability VS People’s attitude Report.pdf". 
 
 Jupyter Notebook files to run the machine learning model
 * user.csv: sample dataset for running the model, Dimensionality: 39805 rows × 12 columns	
